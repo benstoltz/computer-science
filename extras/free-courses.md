@@ -1,6 +1,6 @@
 # Computer Science - Extra Resources
 
-## Courses
+## Free Courses
 
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Math (Mathematical Thinking)](#math-mathematical-thinking)
@@ -66,7 +66,7 @@ Courses | Duration | Effort
 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Analysis of Algorithms (Skiena)](http://www3.cs.stonybrook.edu/~skiena/373/) | 15 weeks | 6-8 hours/week 
+[Analysis of Algorithms (Skiena)](http://www3.cs.stonybrook.edu/~skiena/373/) | 15 weeks | 6-8 hours/week
 [Analysis of Algorithms (Sedgewick)](https://www.coursera.org/course/aofa)| 6 weeks | 6-8 hours/week
 [Programming Challenges (Skiena)](http://www3.cs.stonybrook.edu/~skiena/392/) | 14 weeks | 6-8 hours/week
 [Mathematical Logic and Algorithms Theory](https://iversity.org/en/courses/mathematical-logic-and-algorithms-theory) | 7 weeks | 3-4 hours/week
@@ -134,6 +134,9 @@ Courses | Duration | Effort
 [Operating System Engineering](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/)| - | -
 [Introduction to Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)| 8 weeks | 5-8 hours/week
 [CompTIA Linux+](https://www.cybrary.it/course/comptia-linux-plus/)| - | 5.25 hours
+[Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923)| 8 weeks | 5-8 hours/week
+[Advanced Operating Systems](https://www.udacity.com/course/advanced-operating-systems--ud189)| 5 weeks | 5-8 hours/week
+[Advanced Operating Systems: Structures And Implementation](https://www.youtube.com/playlist?list=PL-XXv-cvA_iB_5Q8G8kW5idSwNmXypmQE)| 10 weeks | 2-3 hours/week
 
 ### Computer Networks
 
@@ -142,12 +145,16 @@ Courses | Duration | Effort
 [Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about) | - | 5-10 hours/week
 [CompTIA Network+](https://www.cybrary.it/course/comptia-network-plus/) | - | 32 hours
 [Cisco CCNA](https://www.cybrary.it/course/cisco-ccna/) | - | 15.5 hours
+[Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256) | - | 12 hours
+[Computer Networking](https://www.udacity.com/course/computer-networking--ud436) | 12 weeks | 5-8 hours/week
 
 ### Databases
 
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Using Databases with Python](https://www.coursera.org/learn/python-databases) | 5 weeks | 2-3 hours/week
+[Database Systems](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22ed2ee867-9610-4bad-94af-5d12c2ea47cd%22) | - | 27 hours
+[Database Management Essentials](https://www.coursera.org/learn/database-management) | 7 weeks | 4-6 hours/week
 
 ### Cloud Computing
 

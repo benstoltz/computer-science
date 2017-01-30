@@ -1,4 +1,3 @@
-
 ![Open Source Society University (OSSU)](http://i.imgur.com/GjEbgIJ.png)
 
 <h3 align="center">Open Source Society University</h3>
@@ -9,46 +8,36 @@
   <a href="https://github.com/sindresorhus/awesome">
     <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
   </a>
+  <a href="https://github.com/open-source-society/computer-science">
+	<img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
+  </a>
 </p>
 
 ## Contents
 
 - [About](#about)
-- [Becoming an OSS student](#becoming-an-oss-student)
 - [Motivation & Preparation](#motivation--preparation)
 - [Curriculum](#curriculum)
 - [How to use this guide](#how-to-use-this-guide)
 - [Prerequisite](#prerequisite)
 - [How to collaborate](#how-to-collaborate)
 - [Community](#community)
-- [Next Goals](#next-goals)
+- [Team](#team)
 - [References](#references)
 
 ## About
 
 This is a **solid path** for those of you who want to complete a **Computer Science** course on your own time, **for free**, with courses from the **best universities** in the World.
 
-In our curriculum, we gave preference to MOOC (Massive Open Online Course) style courses because those courses were created with our style of learning in mind.
-
-## Becoming an OSS student
-
-To officially register for this course you must create a profile in our [web app](https://ossu.firebaseapp.com).
-
-> **"How can I do this?"**
-
-Just create an account on GitHub and log in with this account in our web app.
-
-The intention of this app is to offer for our students a way to track their progress, and also the ability to show their progress through a public page for friends, family, employers, etc.
-
-In the "My Progress" tab, you are able to edit the status of the courses that you are taking, and also add the link of your final project for each one.
+In our curriculum, we give preference to MOOC (Massive Open Online Course) style courses because these courses were created with our style of learning in mind.
 
 ## Motivation & Preparation
 
 Here are two interesting links that can make **all** the difference in your journey.
 
-The first one is a motivational video that shows a guy that went through the "MIT Challenge", that consists in learning the entire **4-year** MIT curriculum for Computer Science in **1 year**.
+The first one is a motivational video that shows a guy that went through the "MIT Challenge", which consists of learning the entire **4-year** MIT curriculum for Computer Science in **1 year**.
 
-- [MIT Challenge](http://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
+- [MIT Challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
 
 The second link is a MOOC that will teach you learning techniques used by experts in art, music, literature, math, science, sports, and many other disciplines. These are **fundamental abilities** to succeed in our journey.
 
@@ -61,7 +50,7 @@ The second link is a MOOC that will teach you learning techniques used by expert
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Math (Mathematical Thinking)](#math-mathematical-thinking)
 - [Program Design](#program-design)
-- [Math (Discrete Math)](#math-discrete-math)
+- [Math (Calculus & Discrete Math)](#math-calculus-and-discrete-math)
 - [Algorithms](#algorithms)
 - [Programming Paradigms](#programming-paradigms)
 - [Software Testing](#software-testing)
@@ -102,7 +91,7 @@ Courses | Duration | Effort
 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x) | 9 weeks | 5 hours/week
+[Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x) | 4 weeks | 2-5 hours/week
 
 ### Program Design
 
@@ -112,18 +101,19 @@ Courses | Duration | Effort
 [How to Code: Systematic Program Design - Part 2](https://www.edx.org/course/how-code-systematic-program-design-part-ubcx-spd2x)| 5 weeks | 8-12 hours/week
 [How to Code: Systematic Program Design - Part 3](https://www.edx.org/course/how-code-systematic-program-design-part-ubcx-spd3x)| 5 weeks | 8-12 hours/week
 
-### Math (Discrete Math)
+### Math (Calculus and Discrete Math)
 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)| 12 weeks | 5 hours/week
+[Calculus One](https://www.coursera.org/learn/calculus1)| 16 weeks | 8-10 hours/week
+[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)| 12 weeks | 5 hours/week
 
 ### Algorithms
 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Algorithms, Part I](https://www.coursera.org/course/algs4partI)| 6 weeks | 6-12 hours/week
-[Algorithms, Part II](https://www.coursera.org/course/algs4partII)| 6 weeks |  6-12 hours/week
+[Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)| 6 weeks | 6-12 hours/week
+[Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)| 6 weeks |  6-12 hours/week
 
 ### Programming Paradigms
 
@@ -143,7 +133,6 @@ Courses | Duration | Effort
 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Calculus One](https://www.coursera.org/learn/calculus1)| 16 weeks | 8-10 hours/week
 [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)| 7 weeks | 9-10 hours/week
 
 ### Software Architecture
@@ -156,7 +145,7 @@ Courses | Duration | Effort
 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Automata](https://www.coursera.org/course/automata)| 6 weeks | 8-10 hours/week
+[Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)| 9 weeks | 6 hours/week
 
 ### Software Engineering
 
@@ -186,7 +175,7 @@ Courses | Duration | Effort
 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Computer Networks](https://www.coursera.org/course/comnetworks)| - | 4–12 hours/week
+[Computer Networks](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)| - | 4–12 hours/week
 
 ### Databases
 
@@ -204,7 +193,7 @@ Courses | Duration | Effort
 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Coding the Matrix: Linear Algebra through Computer Science Applications](https://www.coursera.org/course/matrix)| 10 weeks | 7-10 hours/week
+[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!)| 15 weeks | 8 hours/week
 
 ### Cryptography
 
@@ -223,13 +212,13 @@ Courses | Duration | Effort
 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Compilers](https://www.coursera.org/course/compilers)| 9 weeks | 6-8 hours/week
+[Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)| 9 weeks | 6-8 hours/week
 
 ### Parallel Computing
 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Heterogeneous Parallel Programming](https://www.coursera.org/course/hetero)| 11 weeks | 8-10 hours/week
+[Parallel Computer Architecture and Programming](http://15418.courses.cs.cmu.edu/spring2016/home)| 20 weeks | -
 
 ### UX Design
 
@@ -259,13 +248,13 @@ Courses | Duration | Effort
 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Natural Language Processing](https://www.coursera.org/course/nlangp)| 10 weeks | 8-10 hours/week
+[Introduction to Natural Language Processing](https://www.coursera.org/learn/natural-language-processing)| 12 weeks | -
 
 ### Big Data
 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Introduction to Big Data](https://www.coursera.org/learn/intro-to-big-data)| 3 weeks | 5-6 hours/week
+[Introduction to Big Data](https://www.coursera.org/learn/big-data-introduction)| 3 weeks | 5-6 hours/week
 
 ### Data Mining
 
@@ -298,9 +287,27 @@ The following platforms currently offer specializations:
 
 This guide was developed to be consumed in a linear approach. What does this mean? That you should complete one course at a time.
 
-The courses are **already** in the order that you should complete them. Just start in the [Introduction to Computer Science](#introduction-to-computer-science) section and after finishing the first course, start the next one.
+The courses are **already** in the order you should complete them. Just start in the [Introduction to Computer Science](#introduction-to-computer-science) section and after finishing the first course, start the next one.
 
-**If the course isn't open, do it anyway with the resources from the previous class.**
+**OBS:** If the course is not open, do it with the archived resources or wait until next class is open.
+
+### How to track and show your progress
+
+1. Create an account in [Trello](https://trello.com/).
+1. Copy [this](https://trello.com/b/9DPXYv5f) board to your personal account. See how to copy a board [here](http://blog.trello.com/you-can-copy-boards-now-finally/).
+
+Now that you have a copy of our official board, you just need to pass the cards to the `Doing` column or `Done` column as you progress in your study.
+
+We also have **labels** to help you have more control through the process. The meaning of each of these labels is:
+
+- `Main Curriculum`: cards with that label represent courses that are listed in our curriculum.
+- `Extra Courses`: cards with that label represent courses that was added by the student.
+- `Doing`: cards with that label represent courses the student is current doing.
+- `Done`: cards with that label represent courses finished by the student. Those cards should also have the link for at least one project/article built with the knowledge acquired in such course.
+- `Section`: cards with that label represent the section that we have in our curriculum. Those cards with the `Section` label are only to help the organization of the Done column. You should put the *Course's cards* below its respective *Section's card*.
+- `Extra Sections`: cards with that label represent sections that was added by the student.
+
+The intention of this board is to provide our students a way to track their progress, and also the ability to show their progress through a public page for friends, family, employers, etc. You can change the status of your board to be **public** or **private**.
 
 ### Should I take all courses?
 
@@ -308,7 +315,7 @@ The courses are **already** in the order that you should complete them. Just sta
 
 ### Duration of the project
 
-It may take longer to complete all of the classes compared to a  regular CS course, but I can **guarantee** you that your **reward** will be proportional to **your motivation/dedication**!
+It may take longer to complete all courses compared to a regular CS graduation, but I can **guarantee** you that your **reward** will be proportional to your extra **effort**!
 
 You must focus on your **habit**, and **forget** about goals. Try to invest 1 ~ 2 hours **every day** studying this curriculum. If you do this, **inevitably** you'll finish this curriculum.
 
@@ -318,13 +325,18 @@ You must focus on your **habit**, and **forget** about goals. Try to invest 1 ~ 
 
 Here in **OSS University**, you do **not** need to take exams, because we are focused on **real projects**!
 
-In order to show for everyone that you **successfully** finished a course, you should create a **real project**.
+In order to show everyone that you **successfully** finished a course, you should create a **real project**.
 
 > "What does it mean?"
 
-After finish a course, you should think about a **real world problem** that you can solve using the acquired knowledge in the course. You don't need to create a big project, but you must create something to **validate** and **consolidate** your knowledge, and also to show to the world that you are capable to create something useful with the concepts that you learned.
+After you finish a course, you should think about a **real world problem** that you can solve using the acquired knowledge in the course. You don't need to create a big project, but you must create something to **validate** and **consolidate** your knowledge, and also to show to the world that you are capable to create something useful with the concepts that you learned.
 
-The projects of all students will be listed in [this](https://github.com/open-source-society/help/blob/master/PROJECTS.md) file. Submit your project's information in that file after you conclude it.
+The projects of all students will be listed in [this](PROJECTS.md) file. **Submit your project's information in that file after you conclude it**.
+
+Put the OSSU-CS badge in the README of your repository! [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/open-source-society/computer-science)
+
+- Markdown: `[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/open-source-society/computer-science)`
+- HTML: `<a href="https://github.com/open-source-society/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>`
 
 **You can create this project alone or with other students!**
 
@@ -385,7 +397,7 @@ The **only things** that you need to know are how to use **Git** and **GitHub**.
 
 ## Change Log
 
-**Curriculum Version**: `3.0.0`
+**Curriculum Version**: `6.0`
 
 To show **respect** to all of our students, we will keep a [CHANGELOG](CHANGELOG.md) file that contains all the alterations that our curriculum may suffer.
 
@@ -393,7 +405,7 @@ Now we have a **stable** version of the curriculum, which won't change anymore, 
 
 Our students can **trust** in this curriculum because it has been **carefully planned** and covers **all** the **core topics** that a conventional Computer Science course covers.
 
-We also include modern topics, making this course one of the **best options** for those who want to become a Computer Scientist and/or a Software Engineer.
+We also include modern topics, making this course one of the **best options** for those who want to become a Computer Scientist and/or a Software Engineer/Developer.
 
 ## How to collaborate
 
@@ -405,7 +417,7 @@ If you want to suggest a new resource, send a pull request adding such resource 
 
 The **extras** section is a place where all of us will be able to submit interesting additional articles, books, courses and specializations, keeping our curriculum *as immutable and concise as possible*.
 
-**Let's do it together! =)**
+**Let's do it together! :smile:**
 
 ## Community
 
@@ -421,9 +433,11 @@ Add **Open Source Society University** to your [Facebook](https://www.facebook.c
 
 > **ps**: A forum is an ideal way to interact with other students as we do not lose important discussions, which usually occur in communication via chat apps. **Please use our subreddit/group for important discussions**.
 
-## Next Goals
+## Team
 
-- [Add our University page at Linkedin](https://help.linkedin.com/app/answers/detail/a_id/40128/~/adding-a-new-university-page), so in that way we will be able to add **OSS University** in our Linkedin profile.
+* **Curriculum Founder**: [Eric Douglas](https://github.com/ericdouglas)
+* **Curriculum Maintainer**: [Eric Douglas](https://github.com/ericdouglas)
+* **Contributors**: [contributors](https://github.com/open-source-society/computer-science/graphs/contributors)
 
 ## References
 
